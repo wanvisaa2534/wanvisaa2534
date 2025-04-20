@@ -10,3 +10,4 @@
 wanvisaa2534/wanvisaa2534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[LY_OurMissionValues_EN(1).pdf](https://github.com/user-attachments/files/19823556/LY_OurMissionValues_EN.1.pdf)
